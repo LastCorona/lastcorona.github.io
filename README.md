@@ -1,0 +1,1 @@
+# lastcorona.github.io
