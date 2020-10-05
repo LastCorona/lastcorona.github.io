@@ -1,5 +1,9 @@
-#### eGovFramework 를 사용하며 겪었던 이슈 정리이다.
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
+## eGovFramework 를 사용하며 겪었던 이슈 정리이다.
 전자정부 프레임워크를 사용하기 위해,
 ```
  1. 사용할 DB 선택
